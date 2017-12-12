@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.neeraj.example.doct">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/doctor2"
+        android:label="MobiDoc"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SymptomActivityNav"
+            android:label="Search Symptoms"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".Disease"
+            android:label="List Of Diseases"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".SearchMedicineNav"
+            android:label="Search Medicines"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".SearchDoctorNav"
+            android:label="Search Doctors" />
+        <activity
+            android:name=".Help"
+            android:label="Help"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".DiseaseDetails"
+            android:label="Disease Details"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".MainActivityNav"
+            android:label="Doctzzzz"
+            android:windowSoftInputMode="adjustPan">
+
+        </activity>
+        <activity android:name=".test" />
+        <activity android:name=".Lander"></activity>
+        <activity android:name=".Launcher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

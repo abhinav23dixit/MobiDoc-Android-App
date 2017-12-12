@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\4def87de1b4c6c014b57c8588141aa7ed8516eb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_acf005463d71cfadd8cab265b037f384a3da1909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_654a1c71889d7bd4d690d9708c2869def26f828f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\7d343796738dd729d9e5eebce72dbea5d682c95a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_e6561be8449c96c961c9327b1c7fcd027be6965f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\2789712b9692d3a227da14a122f566b8039bfbf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_8903ab8590a2c5aa89d9eee215308a20aa378955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\063df3f50b9790c6a066911a45ac3e0ae58e57be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_19f9c1bb9740b32e376015efbe7eb5329da48c99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\2aab6775697fcf804cb16532b21965d3e1958580\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_6daabcc40581b62dda7c21f710fc1635df1be99d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\12d14a3c404d6451f33da66441386a005cfd358c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_ac70c1aae123db78c1e4ebffd99874702b9b9d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\3203e29a94aae7fcbede81612820afe9d266c7bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_1a50d51adaa29234e16391c84ce6253e41be4370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\f70d7f31dca0991823a92dd270f0cb88d5869056\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_8e318806021754374795438bb81e0cfc86bf65e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\41c9653a9fcef48ca269e05114de61935b014cab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_4751fb7c3bc8c560b6c28354e49aac2927d2b2ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\7f568473aa8dc74406050d004cf052264db06b32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_aab9ba8be6f6d955e51055239ac39d313dd01125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\26c187f0d3d8c5e72b4da1be0982d54123def897\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_5bb2dc84326d1bc43e08fb18629e3be9860f423a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav Dixit\.android\build-cache\b6c9435c0ba07558a199791a7c7a034dc45e50f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\intern\Doct-master\app\build\intermediates\pre-dexed\debug\classes_741d4423ee8d396b5f05b23b94048933a6b3e869.jar" />
+    </item>
+
+</items>

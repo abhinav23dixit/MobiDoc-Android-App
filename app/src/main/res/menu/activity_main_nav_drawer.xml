@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/search_doctor"
+            android:icon="@drawable/pn"
+            android:title="Search Doctor" />
+        <item
+
+            android:id="@+id/find_disease"
+            android:icon="@drawable/heart"
+            android:title="Find Disease" />
+        <item
+            android:id="@+id/search_medicine"
+            android:icon="@drawable/cap"
+            android:title="Search Medicine" />
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/help"
+            android:title="Help" />
+    </group>
+
+</menu>
